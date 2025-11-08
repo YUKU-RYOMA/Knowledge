@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbccaab61f1b362f",
+        "id": "c0560e1e4cec47d1",
         "type": "tabs",
         "children": [
           {
-            "id": "d51a3d9fedec7a96",
+            "id": "77866411e535f4d4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Spring/3.3 データベースから値を取得する.md",
-                "bFile": "Spring/3.3 データベースから値を取得する.md",
-                "aRef": ""
+                "file": "Spring/3.3 データベースから値を取得する.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 3.3 データベースから値を取得する"
+              "icon": "lucide-file",
+              "title": "3.3 データベースから値を取得する"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/3.3 データベースから値を取得する.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "バックリンク"
+              "title": "3.3 データベースから値を取得するへのバックリンク"
             }
           },
           {
@@ -177,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d51a3d9fedec7a96",
+  "active": "77866411e535f4d4",
   "lastOpenFiles": [
     "Spring/3.3 データベースから値を取得する.md",
     "Welcome.md",
